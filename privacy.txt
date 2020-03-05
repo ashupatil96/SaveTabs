@@ -1,0 +1,40 @@
+Privacy Policy
+Last updated: March 05, 2020
+
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+
+DO WE COLLECT PERSONAL OR SENSITIVE DATA? NO.
+We do not collect and do not store your personal or sensitive data, including personally identifiable information, browsing history, cookies, cached items, form data, web browsing activity, financial and payment information, health information, authentication information, website content and resources, etc.
+
+DO WE TRANSMIT PERSONAL OR SENSITIVE DATA
+VIA INSECURE NETWORKS? NO.
+We do not transmit personal or sensitive data (including personally identifiable information, browsing history, cookies, cached items, form data, web browsing activity, financial and payment information, health information, authentication information, website content and resources, etc.) to our servers or to 3rd parties via secure or insecure network. We do not transmit such information at all. The processing is done locally by using an extension API and an origin-isolated extension frame, on your own system (computer).
+
+DO WE DISCLOSE PERSONAL OR SENSITIVE DATA
+TO THIRD PARTIES? NO.
+We do not sell, trade, collect, store, transmit or otherwise transfer to 3rd parties your personal or sensitive data, including personally identifiable information, browsing history, cookies, cached items, form data, web browsing activity, financial and payment information, health information, authentication information, website content and resources, etc. Your personal or sensitive data remains confidential.
+
+DO WE COLLECT NON-PERSONALLY IDENTIFIABLE INFORMATION?
+Like most extensions, we may use extension local storage or other similar technologies that are necessary to the proper functioning of our extension and related services, to store extension settings, enhance your experience, etc.
+
+WHAT DO WE USE NON-PERSONALLY IDENTIFIABLE INFORMATION FOR?
+Any of the non-personally identifiable information we collect may be used to personalize your experience. This information helps us to better respond to your individual needs and improve our extension, related apps and services. We continually work to improve our extension offerings based on the information and feedback we receive from you.
+
+DO WE TRANSMIT NON-PERSONALLY IDENTIFIABLE INFORMATION?
+We Don't transmit non-personally identifiable information.
+
+CHILDRENS PRIVACY PROTECTION 
+ACT COMPLIANCE
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act). Our extension and related services are not intended for people under 13 years of age and are not directed at children. We do not knowingly solicit and do not collect personally identifiable information from anyone under 13 years of age.
+
+CALIFORNIA ONLINE PRIVACY PROTECTION 
+ACT COMPLIANCE
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+CHANGES TO OUR PRIVACY POLICY
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+
+By email: ashutosh.s.patil@outlook.com
